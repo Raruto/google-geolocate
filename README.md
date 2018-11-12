@@ -1,7 +1,8 @@
 # google-geolocate.js
 A Google Maps plugin that adds a geolocation control.
 
-_For a working example see [demo](https://raruto.github.io/examples/google-geolocate/google-geolocate.html)
+_For a working example (without API Key) see [demo](https://raruto.github.io/examples/google-geolocate/google-geolocate.html)_
+
 ---
 
 ## How to use
@@ -37,6 +38,10 @@ _For a working example see [demo](https://raruto.github.io/examples/google-geolo
       var geolocationControl = new GeolocationControl(map, 13);
     </script>
     ```
+
+_**NB** to be able to use the “Geolocator API” (a.k.a. “MyLocation Button”) you **MUST** use:_
+- _a valid [SSL Website](https://en.wikipedia.org/wiki/HTTPS)._
+- _a valid [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)_
 
 ---
 
