@@ -44,7 +44,7 @@ _For a working example (without API Key) see [demo](https://raruto.github.io/exa
     </script>
     ```
 
-_**NB** to be able to use the “Geolocator API” (a.k.a. “MyLocation Button”) you **MUST** use:_
+_**NB** to be able to use the “Geolocator API” (a.k.a. “MyLocation Button”) you **MUST** own:_
 - _a valid [SSL Website](https://en.wikipedia.org/wiki/HTTPS)._
 - _a valid [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)_
 
