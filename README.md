@@ -5,6 +5,9 @@ _For a working example (without API Key) see [demo](https://raruto.github.io/exa
 
 ---
 
+[![Google+Geolocate Control](https://raw.githubusercontent.com/Raruto/raruto.github.io/master/img/google-geolocate-control.jpg)](https://raruto.github.io)
+
+
 ## How to use
 
 1. **include CSS & JavaScript**
