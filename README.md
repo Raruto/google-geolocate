@@ -1,5 +1,5 @@
 # google-geolocate.js
-A Google Maps plugin that adds a geolocation control.
+A Google Maps plugin that allows to add a geolocation control.
 
 _For a working example (without API Key) see [demo](https://raruto.github.io/examples/google-geolocate/google-geolocate.html)_
 
