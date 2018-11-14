@@ -5,7 +5,9 @@ _For a working example (without API Key) see [demo](https://raruto.github.io/exa
 
 ---
 
-[![Google+Geolocate Control](https://raruto.github.io/img/google-geolocate-control.jpg)](https://raruto.github.io)
+<p align="center">
+    <a href="https://raruto.github.io" rel="nofollow"><img src="https://raruto.github.io/img/google-geolocate-control.jpg" alt="Google+Geolocate Control" /></a>
+</p>
 
 
 ## How to use
