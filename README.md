@@ -17,7 +17,7 @@ _For a working example (without API Key) see [demo](https://raruto.github.io/exa
     <head>
     ...
     <style>html, body, #map { width: 100%; height: 100%; margin: 0; padding: 0; }</style>
-    <script src="https://maps.google.com/maps/api/js?key="></script>
+    <script src="https://maps.google.com/maps/api/js?key=<INSERT_HERE_API_KEY>"></script>
     <script src="https://raruto.github.io/cdn/google-geolocate/0.0.1/google-geolocate.js"></script>
     ...
     </head>
